@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-weight: 0
+weight: 1
 ---
 
 # Welcome
