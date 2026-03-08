@@ -1,7 +1,9 @@
 ---
 title: Research
-layout: page
+layout: default
+permalink: /research/
 ---
+Here are some of my projects and areas of interest.
 
 # Fluid-filled elastomers
 
