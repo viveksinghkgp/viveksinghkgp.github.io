@@ -1,6 +1,7 @@
 ---
 title: Publications
-layout: page
+layout: default
+permalink: /publications/
 ---
 
 ## Journal Articles
