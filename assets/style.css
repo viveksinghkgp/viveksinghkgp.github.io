@@ -1,19 +1,19 @@
-/* Remove bullets and default list styling */
-.menu {
-  list-style: none;
-  padding: 0;
+/* Remove bullets and horizontal menu */
+.site-nav {
+  list-style: none;          /* remove bullets */
   margin: 0;
-  display: flex;            /* Horizontal menu */
-  gap: 20px;                /* Space between items */
+  padding: 0;
+  display: flex;             /* horizontal layout */
+  gap: 20px;                 /* space between menu items */
 }
 
-/* Style links */
-.menu li a {
+/* Links styling */
+.site-nav li a {
   text-decoration: none;
-  color: #333;              /* change color as needed */
+  color: #333;               /* change color as needed */
   font-weight: bold;
 }
 
-.menu li a:hover {
-  color: #007acc;           /* hover effect */
+.site-nav li a:hover {
+  color: #007acc;            /* hover effect */
 }
