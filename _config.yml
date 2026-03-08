@@ -1,9 +1,7 @@
 title: Your Name
 theme: minima   # or cayman / minimal-mistakes / other theme
-author:
-  name: Your Name
-  affiliation: University / Lab
-email: your.email@example.com
+
+email: 2026 Vivek Singh Ph.D.
 description: Personal academic website
 
 sass:
