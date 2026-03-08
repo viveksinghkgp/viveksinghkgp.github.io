@@ -2,7 +2,7 @@
 title: Research
 layout: default
 permalink: /research/
-weight: 2
+weight: 3
 ---
 Here are some of my projects and areas of interest.
 
