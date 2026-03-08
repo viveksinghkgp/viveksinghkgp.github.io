@@ -10,3 +10,11 @@ sass:
   style: compressed
 
 
+# Navigation links
+navigation:
+  - title: About
+    url: /about/
+  - title: Publications
+    url: /publications/
+  - title: Research
+    url: /research/
