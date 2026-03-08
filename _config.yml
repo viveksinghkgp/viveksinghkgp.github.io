@@ -1,2 +1,7 @@
-theme: minima
-title: My Site
+title: Your Name
+theme: minima   # or cayman / minimal-mistakes / other theme
+author:
+  name: Your Name
+  affiliation: University / Lab
+email: your.email@example.com
+description: Personal academic website
