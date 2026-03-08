@@ -2,7 +2,7 @@
 title: Publications
 layout: default
 permalink: /publications/
-weight: 3
+weight: 4
 ---
 
 ## Journal Articles
