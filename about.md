@@ -2,6 +2,7 @@
 title: About
 layout: default
 permalink: /about/
+weight: 1
 ---
 
 Hi! I’m **Your Name**, a researcher in Machine Learning.  
