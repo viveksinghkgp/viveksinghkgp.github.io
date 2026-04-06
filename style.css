@@ -75,12 +75,11 @@ footer {
 }
 
 .pub-text {
-    flex: 2;   /* left side wider */
+    width: 50%;
 }
 
 .pub-image {
-    flex: 2;   /* right side smaller */
-    max-width: 180px;
+    width: 50%;
 }
 
 .pub-image img {
