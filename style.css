@@ -7,7 +7,8 @@ body {
 }
 
 .container {
-    max-width: 1100px;
+    width: 95%;          /* take 95% of the viewport width */
+    max-width: 1600px;   /* optional: cap maximum width */
     margin: auto;
     padding: 20px;
 }
