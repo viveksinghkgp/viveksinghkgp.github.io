@@ -1,11 +1,38 @@
----
-title: About
-layout: default
-permalink: /about/
-weight: 2
----
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Name</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-Hi! I’m **Your Name**, a researcher in Machine Learning.  
-This is my personal academic website.
+<div class="container">
+    <h1>Your Name</h1>
+    <p>Lecturer / Researcher in Mechanics</p>
 
-I am a PhD student at XYZ University, working on machine learning for healthcare.
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="research.html">Research</a>
+        <a href="publications.html">Publications</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <hr>
+
+    <h2>Welcome</h2>
+    <p>
+        I am a researcher working in computational mechanics,
+        nonlinear materials, and finite element methods.
+    </p>
+
+    <h2>News</h2>
+    <ul>
+        <li>Paper accepted in Journal XYZ</li>
+        <li>Started new position at ABC University</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
