@@ -62,3 +62,23 @@ footer {
     border-top: 2px solid #003366;
     margin-top: 40px;
 }
+
+.research-entry {
+    display: flex;          /* side by side */
+    gap: 20px;              /* space between text and image */
+    align-items: center;    /* vertically center */
+    margin-bottom: 30px;    /* space between entries */
+}
+
+.research-text {
+    width: 50%;             /* take 50% of the width */
+}
+
+.research-image {
+    width: 50%;             /* take 50% of the width */
+}
+
+.research-image img {
+    width: 100%;            /* scale image to container */
+    height: auto;           /* keep aspect ratio */
+}
