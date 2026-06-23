@@ -32,6 +32,13 @@ header p {
     color: #555;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
 nav {
 text-align: right;
 margin-bottom: 20px;
