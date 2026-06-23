@@ -82,3 +82,13 @@ footer {
     width: 100%;            /* scale image to container */
     height: auto;           /* keep aspect ratio */
 }
+
+.contact-info {
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+iframe {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
