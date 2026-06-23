@@ -37,7 +37,8 @@ body {
     font-weight: bold;
 }
 
-<!-- .topbar {
+<!-- 
+.topbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -46,7 +47,8 @@ body {
 .topbar h1 {
     font-size: 2.2em;
     margin: 0;
-} -->
+} 
+-->
 
 header {
     text-align: center;
@@ -85,16 +87,6 @@ text-decoration: none;
 color: #003366;
 font-weight: bold;
 }
-
-
-<!-- 
-nav a {
-    margin: 0 15px;
-    text-decoration: none;
-    color: #003366;
-    font-weight: bold;
-} 
--->
 
 nav a:hover {
     color: #ff6600;
