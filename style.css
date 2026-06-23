@@ -32,12 +32,27 @@ header p {
     color: #555;
 }
 
+nav {
+text-align: right;
+margin-bottom: 20px;
+}
+
+nav a {
+margin-left: 20px;
+text-decoration: none;
+color: #003366;
+font-weight: bold;
+}
+
+
+<!-- 
 nav a {
     margin: 0 15px;
     text-decoration: none;
     color: #003366;
     font-weight: bold;
-}
+} 
+-->
 
 nav a:hover {
     color: #ff6600;
